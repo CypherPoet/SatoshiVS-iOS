@@ -1,7 +1,6 @@
-# Automatic App Landing Page
-**Create and deploy an iOS app landing page on GitHub Pages in only five minutes.**
+# Satoshi VS for iOS - Landing Page
 
-Designed for GitHub Pages for super easy set up. 
+Designed for GitHub Pages for super easy set up.
 
 🔧 Fork this repo
 
@@ -34,7 +33,7 @@ After forking the repo, your site will be live immediately on your personal Gith
 ### Step 2: Enter iOS App ID in `_config.yml`
 Enter your iOS app ID in the `ios_app_id` field and commit your changes. Your site will automatically rebuild with your app icon, name, price and link to App Store.
 
-You can go on with customising almost anything in the `_config.yml` file. 
+You can go on with customising almost anything in the `_config.yml` file.
 
 Things you can customise in `_config.yml`:
 - App Name
@@ -88,26 +87,11 @@ By default, only the Changelog is included in the top navigation. The title of t
 
 If you need to, you can create additional markdown based pages just by creating an `.md` file like the `privacypolicy.md` and `CHANGELOG.md` files in the `_pages` directory.
 
-**Please note:** The Privacy Policy and Changelog provided are written using dummy text, so please adapt each of them for your own app.
-You can also choose not to include these pages, by simple deleting the `privacypolicy.md` and `CHANGELOG.md` files.
-
-
-
-
-## Feedback
-If you have feedback regarding bugs or improvements, open an issue, @ me on Twitter or write me an email. You can find my contact info on my website.
-
-I'd love to see the sites you create using this little tool.
 
 ## Credits
 - [Jekyll](https://github.com/jekyll/jekyll)
 - [FontAwesome](https://fontawesome.github.io/Font-Awesome/)
 
-## Donations
-[Donations are welcome](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=S8ZZT3JXJPN92&currency_code=USD&source=url)
-
-## Author
-[Emil Baehr](https://emilbaehr.com/)
 
 ## License
 [MIT License](LICENSE)
