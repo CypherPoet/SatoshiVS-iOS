@@ -8,7 +8,7 @@ Designed for GitHub Pages for super easy set up.
 
 📲 Upload video preview or screenshot
 
-🎨 Customise site in `_config.yml` (no HTML/CSS)
+🎨 Customize site in `_config.yml` (no HTML/CSS)
 
 📝 Write Privacy Policy as markdown in `privacypolicy.md`
 
