@@ -10,7 +10,7 @@ include_in_header: true
 <br>
 
 
-### `Latest` | `Pre-release`
+### `Latest` | `Release`
 
 # **Version 1.0 (Build 3)**
 `January 4, 2020`
