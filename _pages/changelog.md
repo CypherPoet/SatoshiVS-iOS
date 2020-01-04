@@ -9,9 +9,21 @@ include_in_header: true
 
 <br>
 
+
 ### `Latest` | `Pre-release`
 
-# **Version 1.0 (Build 1) - Alpha**
+# **Version 1.0 (Build 3)**
+`January 4, 2020`
+
+This is the first public release of `Satoshi VS` for iOS.
+
+
+<br>
+
+
+### `Pre-release`
+
+# **Version 1.0 (Build 1) - Beta**
 `January 2, 2020`
 
 This is the first public pre-release of `Satoshi VS` for iOS.
