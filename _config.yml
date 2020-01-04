@@ -38,7 +38,7 @@ features                                  :
     description                           : Start thinking in Sats by visualizing Satoshis against a shitcoin challenger.
     fontawesome_icon_name                 : bolt
 
-  - title                                 : Powered by the BitcoinAverage API.
+  - title                                 : Powered by the BitcoinAverage API
     description                           : Choose from a deep sea of tokens, "cryptos", and fiat shitcoins to see how Sats stack up.
     fontawesome_icon_name                 : battery-full
 
@@ -46,13 +46,13 @@ features                                  :
     description                           : View daily, weekly, monthly, and annual opens, averages, and changes for a given currency pairing.
     fontawesome_icon_name                 : history
 
-  - title                                 : Dark Mode... or Light.
+  - title                                 : Dark Mode... or Light
     description                           : Two unique, beautiful themes for dark mode and light mode.
     fontawesome_icon_name                 : paint-brush
 
-  - title                                 : More features coming soon 🔜.
+  - title                                 : More features coming soon 🔜
     description                           :
-    fontawesome_icon_name                 : moon-o
+    fontawesome_icon_name                 : moon
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -67,26 +67,26 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/header-images/moon-in-clouds.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_overlay_transparency                : 0.6
 
 device_color                              : blue                                            # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#24292e"
 
-link_color                                : "#1d63ea"
+link_color                                : "#E1FC61"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#000000"
-feature_text_color                        : "#666666"
+feature_title_color                       : "#E1FC61"
+feature_text_color                        : "#d8d8d8"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#E1FC61"
+feature_icons_background_color            : "#3b5571"
 
-social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#e6e6e6"
+social_icons_foreground_color             : "#E1FC61"
+social_icons_background_color             : "#3b5571"
 
 footer_text_color                         : "#666666"
 
