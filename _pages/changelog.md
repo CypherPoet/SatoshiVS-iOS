@@ -10,7 +10,19 @@ include_in_header: true
 <br>
 
 
-### `Latest` | `Release`
+### `Latest` | `Pre-Release`
+
+# **Version 1.1.0 (Build 1)**
+`January 5, 2020`
+
+#### What's New
+- Added animated loading spinner for a more graceful loading screen experience.
+
+
+<br>
+
+
+### `Release`
 
 # **Version 1.0 (Build 3)**
 `January 4, 2020`
